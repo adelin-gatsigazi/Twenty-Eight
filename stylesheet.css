@@ -1,0 +1,55 @@
+.eight-header {
+    display: flex;
+    align-items: center;
+}
+.vector-eight {
+    width: 197px;
+    height: 26.95px;
+    margin-right: 90px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.Event {
+    margin-left: 180px;
+    margin-top: 49px;
+    font-family: "Poppins", sans-serif;
+    color: #49413D;
+}
+.Interior, .Contact {
+    margin-left: 90px;
+    margin-top: 49px;
+    font-family: "Poppins", sans-serif;
+    color: #49413D;
+
+}
+.Shop {
+    margin-left: 230px;
+    margin-top: 49px;
+    font-family: "Poppins", sans-serif;
+    color: #49413D;
+}
+#arrow {
+    margin-left: 10px;
+    width: 8px;
+    height: 8px;
+}
+.Unveiling {
+    width: 988px;
+    height: 132px;
+    font-family: "Poppins", sans-serif;
+    font-size: 88px;
+    line-height: 102px;
+    color: #49413D;
+}
+#Dreams{
+    color:  #004F52;
+}
+#Realities {
+    color:  #E7A362;
+}
+#Crafting {
+    width: 931px;
+    height: 429px;
+    ;
+
+}
