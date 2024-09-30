@@ -78,7 +78,6 @@
     left: 20px;
     width: 873px;
     height: 445px;
-    margin-bottom: 60px;
 }
 .arrow-vector {
     position: relative;
@@ -101,4 +100,45 @@
     margin-left: 390px;
     color:#49413D;
     font-family: "Poppins", sans-serif;
+}
+.numeric {
+    display: flex;
+    position: relative;
+    text-align: center;
+    top: 70px;
+    right: 50%;
+    left: 50%;
+    margin-left: -249px;
+    gap: 80px;
+}
+.thirty-plus, .twenty-plus, .second-twenty, .hundred-plus {
+    color: #E7A362;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+}
+#interior, #event {
+    color: #49413D;
+    font-family: "Poppins", sans-serif;
+    margin-top: 80px;
+    margin-left: -160px;
+    font-size: smaller;
+    line-height: 1.5;
+}
+#ongoing, #happy{
+    color: #49413D;
+    font-family: "Poppins", sans-serif;
+    margin-top: 80px;
+    margin-left: -140px;
+    font-size: smaller;
+    line-height: 1.5;
+}
+#projects {
+    color: red;
+}
+.rectangle {
+    width: 100%;
+    height: 648px;
+    top: 0px;
+    background: #F4F4F4;
+    border-radius: 60px 60px 0px 0px;
 }
