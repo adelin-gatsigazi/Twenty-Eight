@@ -37,7 +37,7 @@
     width: 988px;
     height: 132px;
     font-family: "Poppins", sans-serif;
-    font-size: 88px;
+    font-size: 78px;
     line-height: 102px;
     color: #49413D;
 }
@@ -50,6 +50,55 @@
 #Crafting {
     width: 931px;
     height: 429px;
-    ;
-
+}
+.mirror-corner {
+    margin-left: 900px;
+    width: 347px;
+    height: 623px;
+    margin-top: -180px;
+    border-radius: 14px;
+}
+.rotation-corner {
+    position: absolute;
+    right: 467px;
+    bottom: 175px;
+}
+.ellipse-corner {
+    position: absolute;
+    bottom: -10px;
+    top: 12px;
+    margin-left: 620px;
+    margin-top: 260px;
+    width: 192px;
+    height: 192px;
+}
+.rectangle-shape {
+    position: absolute;
+    border-radius: 14px;
+    left: 20px;
+    width: 873px;
+    height: 445px;
+    margin-bottom: 60px;
+}
+.arrow-vector {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    top: 50px;
+}
+.about-twenty {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    top: 70px;
+    margin-left: -75px;
+    color:#004F52;
+    font-family: "Poppins", sans-serif;
+}
+.paragraph-twenty {
+    position: relative;
+    top: 70px;
+    margin-left: 390px;
+    color:#49413D;
+    font-family: "Poppins", sans-serif;
 }
