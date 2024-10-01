@@ -61,7 +61,7 @@
 .rotation-corner {
     position: absolute;
     right: 467px;
-    bottom: 175px;
+    bottom: 195px;
 }
 .ellipse-corner {
     position: absolute;
@@ -87,10 +87,8 @@
 }
 .about-twenty {
     position: relative;
-    left: 50%;
-    right: 50%;
     top: 70px;
-    margin-left: -75px;
+    margin-left: 545px;
     color:#004F52;
     font-family: "Poppins", sans-serif;
 }
@@ -102,43 +100,78 @@
     font-family: "Poppins", sans-serif;
 }
 .numeric {
-    display: flex;
-    position: relative;
+    position: absolute;
     text-align: center;
-    top: 70px;
+    top: 1020px;
     right: 50%;
     left: 50%;
-    margin-left: -249px;
-    gap: 80px;
+    margin-left: -269px;
+    gap: 90px;
 }
-.thirty-plus, .twenty-plus, .second-twenty, .hundred-plus {
+.thirty-plus {
     color: #E7A362;
     font-family: "Poppins", sans-serif;
     font-size: 40px;
+    margin-right: 170px;
 }
-#interior, #event {
+#interior {
     color: #49413D;
     font-family: "Poppins", sans-serif;
-    margin-top: 80px;
-    margin-left: -160px;
+    margin-top: -20px;
+    margin-left: -180px;
     font-size: smaller;
     line-height: 1.5;
 }
-#ongoing, #happy{
+.twenty-plus {
+    color: #E7A362;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    margin-top: -106px;
+    margin-left: 140px;
+}
+#event {
     color: #49413D;
     font-family: "Poppins", sans-serif;
-    margin-top: 80px;
-    margin-left: -140px;
     font-size: smaller;
     line-height: 1.5;
+    margin-top: -20px;
+    margin-left: 130px;
 }
-#projects {
-    color: red;
+.second-twenty {
+    color: #E7A362;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    margin-top: -106px;
+    margin-left: 320px;
+}
+#ongoing {
+    color: #49413D;
+    font-family: "Poppins", sans-serif;
+    font-size: smaller;
+    line-height: 1.5;
+    margin-top: -20px;
+    margin-left: 324px;
+}
+.hundred-plus {
+    color: #E7A362;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    margin-top: -106px;
+    margin-left: 460px;
+}
+#happy{
+    color: #49413D;
+    font-family: "Poppins", sans-serif;
+    font-size: smaller;
+    line-height: 1.5;
+    margin-top: -20px;
+    margin-left: 480px;
 }
 .rectangle {
-    width: 100%;
+    position: relative;
+    top: 230px;
+    width: 1250px;
     height: 648px;
-    top: 0px;
     background: #F4F4F4;
-    border-radius: 60px 60px 0px 0px;
+    border-radius: 60px 60px 0px 0px; 
 }
