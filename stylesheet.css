@@ -89,12 +89,14 @@
     position: relative;
     top: 70px;
     margin-left: 545px;
+    font-size: medium;
     color:#004F52;
     font-family: "Poppins", sans-serif;
 }
 .paragraph-twenty {
     position: relative;
     top: 70px;
+    font-size: medium;
     margin-left: 390px;
     color:#49413D;
     font-family: "Poppins", sans-serif;
@@ -171,7 +173,90 @@
     position: relative;
     top: 230px;
     width: 1250px;
-    height: 648px;
+    height: 620px;
     background: #F4F4F4;
-    border-radius: 60px 60px 0px 0px; 
+    border-radius: 60px 60px 0px 0px;
+}
+.our-service {
+    padding-top: 80px;
+    text-align: center;
+    color: #004F52;
+    font-size: medium;
+    font-family: "Poppins", sans-serif;  
+}
+.Discover {
+    color: #49413D;
+    font-size: medium;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+}
+.house-design {
+    display: flex;
+    font-family: "Poppins", sans-serif;
+    margin-left: 290px;
+    margin-bottom: -5px;
+    margin-top: 70px;
+}
+#INTERIOR {
+    font-size: 30px;
+    color:#49413D;
+}
+#INTERIORZ {
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    color:#49413D;
+    margin-left: 506px;
+    margin-top: -40px;
+}
+.Vector-house{
+    width: 100px;
+    height: 59px;
+    margin-right: 120px;
+}
+.Vectorz-house {
+    width: 100px;
+    height: 59px;
+    margin-left: 289px;
+    margin-top: 30px;
+}
+.arrow-down {
+    width: 26.18px;
+    height: 26.18px;
+    margin-top: 32px;
+    margin-left: 130px;
+}
+#last-arrow {
+    position: relative;
+    left: 900px;
+    bottom: 63px;
+    width: 26.18px;
+    height: 26.18px; 
+}
+#line {
+    border: 1px solid  #49413D;
+    width: 700px;
+    margin-right: 280px;
+}
+#last-line {
+    position: relative;
+    bottom: 23px;
+    border: 1px solid  #49413D;
+    width: 700px;
+    margin-right: 280px;
+}
+.second-glasses {
+    margin-top: 40px;
+}
+.Our-process {
+    font-family: "Poppins", sans-serif;
+    font-size: medium;
+    color: #004F52;
+    margin-top: 190px;
+    margin-left: 590px;
+}
+#something {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: medium;
+    color: #49413D;
 }
