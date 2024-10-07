@@ -260,3 +260,54 @@
     font-size: medium;
     color: #49413D;
 }
+.discuss {
+    margin-top: 410px;
+    margin-left: 90px;
+    width: 260px;
+    height: 200px;
+    border-radius: 20px;
+    background:#E7A362;
+}
+.large-rectangle {
+    display: flex;
+    margin-top: -200px;
+    margin-left: 370px;
+    width: 708px;
+    height: 196px;
+    border-radius: 20px;
+    background: #FFFFFF;
+    border: 2px solid #E7A362;
+}
+#text-paragraph {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 40px;
+    padding-top: 40px;
+}
+#square {
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 180px;
+    height: 160px;
+    border-radius: 20px;
+    background:#F4F4F4;
+}
+#square-shape {
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 180px;
+    height: 160px;
+    border-radius: 20px;
+    background:#F4F4F4;
+}
+#square-one {
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 180px;
+    height: 160px;
+    border-radius: 20px;
+    background:#F4F4F4;
+}
