@@ -367,5 +367,85 @@
     margin-top: 140px;
     width: 100%;
     background: #004F52;
-    height: 783px;
+    height: 583px;
+}
+#customers {
+    position: absolute;
+    bottom: -1796px;
+    left: 42%;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+    font-size: medium;
+}
+.happy-client {
+    width: 260px;
+    height: 197px;
+    border-radius: 20px 0px 0px 0px;
+    margin-top: 130px;
+    margin-left: 100px;
+}
+.janet {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+    margin-left: -800px;
+}
+#happy-client, #Managing-partner {
+    font-family: "Poppins", sans-serif;
+    color: #d7d5d5;
+    font-size: small;
+    line-height: 22.5px;
+    margin-top: -14px;
+}
+#after-text {
+    font-size: small;
+    color: #d7d5d5;
+    font-family: "Poppins", sans-serif;
+    line-height: 19.5px;
+}
+.abc-lawyers {
+    position: absolute;
+    bottom: -2024px;
+    margin-left: 500px;
+    width: 260px;
+    height: 197px;
+    border-radius: 20px 0px 0px 0px;
+}
+.James {
+    text-align: center;
+    font-size: small;
+    line-height: 19.5px;
+    color: #d7d5d5;
+    font-family: "Poppins", sans-serif;
+    margin-top: -190px;
+    margin-left: 35px;
+}
+#mugabo{
+    font-size: medium;
+    margin-bottom: 18px;
+    color: #FFFFFF;
+}
+.lawyer{
+    position: absolute;
+    bottom: -2024px;
+    margin-left: 900px;
+    width: 260px;
+    height: 197px;
+    border-radius: 20px 0px 0px 0px;
+}
+.mugabo {
+    text-align: center;
+    font-size: small;
+    line-height: 19.5px;
+    color: #d7d5d5;
+    font-family: "Poppins", sans-serif;
+    margin-top: -190px;
+    margin-left: 805px;
+}
+#Chief {
+    margin-top: -1px;
+}
+#mugabo-janet {
+    color: #FFFFFF;
+    
 }
