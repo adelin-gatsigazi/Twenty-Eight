@@ -446,6 +446,86 @@
     margin-top: -1px;
 }
 #mugabo-janet {
-    color: #FFFFFF;
-    
+    color: #FFFFFF; 
+}
+.contact-us {
+    text-align: center;
+    margin-top: 70px;
+    font-family: "Poppins", sans-serif;
+    font-size: medium;
+    color: #004F52;
+    line-height: 36px;
+}
+.crafting {
+    text-align: center;
+    margin-top: -20px;
+    font-family: "Poppins", sans-serif;
+    font-size: medium;
+    color:#49413D;
+    line-height: 36px;
+}
+#email-us {
+    font-family: "Poppins", sans-serif;
+    color:#49413D;
+    font-size: x-small;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    margin-left: 270px;
+}
+#Whatsapp-us {
+    font-family: "Poppins", sans-serif;
+    color:#49413D;
+    font-size: x-small;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: right;
+    margin-top: -30px;
+    margin-right: 330px;
+}
+#twenty-gmail {
+    font-family: "Poppins", sans-serif;
+    font-size: x-large;
+    color: #004F52;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: center;
+    margin-right: 485px;
+    margin-top: -25px;
+}
+.left-side {
+    position: absolute;
+    bottom: -2474px;
+    width: 16.18px;
+    height: 16.18px;
+    margin-left: 519px;
+}
+#vertical-line {
+    border: 1px solid  #49413D;
+    width: 272px;
+    margin-right: 709px;
+    margin-top: -20px;
+}
+#phone-number {
+    text-align: center;
+    margin-left: 630px;
+    margin-top: -70px;
+    font-family: "Poppins", sans-serif;
+    font-size: x-large;
+    color:#E7A362;
+    font-weight: 400;
+    line-height: 60px;
+}
+#second-vertical {
+    border: 1px solid  #49413D;
+    width: 236px;
+    margin-right: 168px;
+    margin-top: -26px;
+}
+.yellow-arrow {
+    position: absolute;
+    bottom: -2474px;
+    right: 180px;
+    width: 16.18px;
+    height: 16.18px;
 }
